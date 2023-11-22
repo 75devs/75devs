@@ -9,3 +9,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [0xSparkss](https://github.com/0xSparkss) | [0xSparkss](https://twitter.com/0xSparkss) | 3odUndcmsGUKknsrXgS1QRrWCXSgTrs5EgkJWvNuFK1Z | Rust, Typescript | No
 [deanmlittle](https://github.com/deanmlittle) | [deanmlittle](https://twitter.com/deanmlittle) | GLtaTaYiTQrgz411iPJD79rsoee59HhEy18rtRdrhEUJ | Rust, Typescript | No
 [Leo](https://github.com/L0STE) | [Leo](https://twitter.com/L0STE_) | 2uESnwhDVSPDZCBhegfUxjRNs5vxLh243QpyMGPmda88 | Rust, Typescript | Yes
+[Simar](https://github.com/SimardeepSingh-zsh) | [Simar](https://twitter.com/simar_cloud) | 31o3R9xnTTQnBoUj9CtnN7u1T53pTnXQGh | Python, Javascript, HTML , CSS, Typescript | Yes 

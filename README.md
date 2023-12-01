@@ -16,4 +16,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [hansay](https://github.com/hansay) | [plazmatamadas](https://twitter.com/plazmatamadas) | BDdeBEr7tZ8tsAgfjadysN6poRpRM1DZGiaQ9LquhJVe | Rust (Anchor), Typescript, React, PHP | Yes  
 [mikejhale](https://github.com/mikejhale) | [mikehale](https://twitter.com/mikehale) | 3JnfMbmTtQQd6bdQ6ahNKYKdq4ujgMNbGaQpWZwQYqWh | Rust, Typescript | Yes
 [XanderRey](https://github.com/XanderRey) | [RktCrypto](https://twitter.com/RktCrypto) | 94dMpPqpQj3vBLMM88EC69D4SS5EeS972eeNyLvBwfUA | Python, C# | Yes
-[King-Del-ErnestO](https://github.com/King-Del-ErnestO) | [Akubueze Del Ernest](https://twitter.com/AkubuezeErnest) | 0x9e6B57b5Efb09143847CD7D5C343C8a410CB06Aa | Python, Solidity, JS | Yes
+[King-Del-ErnestO](https://github.com/King-Del-ErnestO) | [Akubueze Del Ernest](https://twitter.com/AkubuezeErnest) | 0x9e6B57b5Efb09143847CD7D5C343C8a410CB06Aa | Python, Solidity, JS | Yess

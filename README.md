@@ -20,3 +20,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [genmoe](https://github.com/genmoe) | [GenMode_](https://x.com/GenMode_) | 4STmnWqgndnQreDtBV4o1SB9FN7zj4CBT4FHLPquj9V7 | C++, Rust (Anchor), Typescript, React, JavaScript, CSS, PHP | No
 [dmshvetsov](https://github.com/dmshvetsov) | [dmshvetsov](https://twitter.com/dmshvetsov) | CywE9TBWYaTKiFvrrDgFzJYDBHg9VL2pCEVin2qhSDZM | Typescript, React, Node.js, Rust, Move, UI/UX, Product | Yes
 [AnishDe12020](https://github.com/AnishDe12020) | [AnishDe12020](https://twitter.com/AnishDe12020) | 8Dyk53RrtmN3MshQxxWdfTRco9sQJzUHSqkUg8chbe88 | Typescript, Rust (Anchor), Go, React | No
+[JuanMarchetto](https://github.com/JuanMarchetto) | [marchedev](https://twitter.com/marchedev) | 41GgC1qWFSVJJgn1M7K34X4bY2bd9WTyy6J4iYpa3YCE | Rust, Typescript | Yes

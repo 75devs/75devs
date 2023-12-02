@@ -17,3 +17,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [mikejhale](https://github.com/mikejhale) | [mikehale](https://twitter.com/mikehale) | 3JnfMbmTtQQd6bdQ6ahNKYKdq4ujgMNbGaQpWZwQYqWh | Rust, Typescript | Yes
 [XanderRey](https://github.com/XanderRey) | [RktCrypto](https://twitter.com/RktCrypto) | 94dMpPqpQj3vBLMM88EC69D4SS5EeS972eeNyLvBwfUA | Python, C# | Yes
 [King-Del-ErnestO](https://github.com/King-Del-ErnestO) | [Akubueze Del Ernest](https://twitter.com/AkubuezeErnest) | AL5dtXHrti169fWYsjh1G2yDUUzqkmkFHz5BZvMcqjw9 | Python, Solidity, JS | Yes
+[Joseph-Ellie](https://github.com/JosephEllie) | [Joseph Ellie Cooper](https://twitter.com/JECFreelancer) | 2q5PLdQKLKMyCyixfW3LPkLeW9br19f3i5mLHGXcdcwS | Typescript, Next.Js, JS | Yes

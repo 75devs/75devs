@@ -21,3 +21,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [dmshvetsov](https://github.com/dmshvetsov) | [dmshvetsov](https://twitter.com/dmshvetsov) | CywE9TBWYaTKiFvrrDgFzJYDBHg9VL2pCEVin2qhSDZM | Typescript, React, Node.js, Rust, Move, UI/UX, Product | Yes
 [AnishDe12020](https://github.com/AnishDe12020) | [AnishDe12020](https://twitter.com/AnishDe12020) | 8Dyk53RrtmN3MshQxxWdfTRco9sQJzUHSqkUg8chbe88 | Typescript, Rust (Anchor), Go, React | No
 [JuanMarchetto](https://github.com/JuanMarchetto) | [marchedev](https://twitter.com/marchedev) | 41GgC1qWFSVJJgn1M7K34X4bY2bd9WTyy6J4iYpa3YCE | Rust, Typescript | Yes
+[0xbanana](https://github.com/echohtp) | [0xbanana](https://twitter.com/0xbanana) | 232PpcrPc6Kz7geafvbRzt5HnHP4kX88yvzUCN69WXQC | Typescript | No
